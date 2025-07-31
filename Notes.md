@@ -1,5 +1,5 @@
 # Rebase to update from origin
-Rebasing is probably better than merging into a branch.
+Rebasing is seems to be an alternative way to merging.
 
 
 # Differences between branches
